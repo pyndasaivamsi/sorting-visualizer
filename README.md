@@ -1,6 +1,8 @@
 # Sorting-visualizer
 This is a project which creates visualization of sorting techniques.
 
+Project is hosted here --> https://pyndasaivamsi.github.io/sorting-visualizer/
+
 The final view of project is 
 ![view](https://user-images.githubusercontent.com/97884235/177272875-a2a8bc6c-ea5d-457b-a7c7-6a6cc2e511ca.png)
 
